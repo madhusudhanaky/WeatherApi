@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "thirdpartyapiv-2-client-side-solution",
+    "id": "4a268116-e601-4e34-93ab-555d86eb614c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "thirdpartyapiv-2 description"
+      },
+      "longDescription": {
+        "default": "thirdpartyapiv-2 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "thirdpartyapiv-2 Feature",
+        "description": "The feature that activates elements of the thirdpartyapiv-2 solution.",
+        "id": "a3d972bd-ff98-49fa-a857-0c481146e9ae",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/thirdpartyapiv-2.sppkg"
+  }
+}
